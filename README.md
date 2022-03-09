@@ -1,6 +1,6 @@
-## Desafío Frontend [Houm](https://houm.com/co)
+![GIF](https://github.com/erielilara/desafio_frontend/blob/main/public/assets/desafio_frontend.gif)
 
-Proyecto creado con Reactjs/Redux.
+Proyecto creado con Reactjs/Redux y React-Bootstrap
 
 ### API
 
