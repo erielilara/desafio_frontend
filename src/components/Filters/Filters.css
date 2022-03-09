@@ -88,3 +88,15 @@
     display: flex;
     justify-content: flex-start;
 }
+
+#reset_button{
+    background-color: transparent; 
+    color: #212121;
+    border-color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+    border-radius: 2rem;
+    padding: 0.5rem 1.9rem ;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin:0.3rem; 
+}
