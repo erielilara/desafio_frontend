@@ -1,0 +1,16 @@
+#pagination{ 
+    font-size: 0.9rem;
+    cursor: pointer;
+    color: #616161;
+    background-color: transparent;
+    border-color: #616161;
+    width: 2rem;
+    font-family: 'Nunito', sans-serif;
+}
+#pagination:hover{
+    color: #FF452B;
+    border: none;
+    background-color: #ffdbd0;
+    font-weight: bold;
+
+}

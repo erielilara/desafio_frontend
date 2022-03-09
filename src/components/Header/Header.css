@@ -1,0 +1,12 @@
+.navbar {
+    background-color: white;
+    top:0px;
+    padding: 8px 0px;
+    height: 4.5rem;
+    box-shadow: rgb(219 219 219 / 25%) 0px 4px 4px;
+}
+#link {
+    border: solid 1px #FF452B;
+    border-radius: 0.5rem;
+    color:#FF452B
+}
